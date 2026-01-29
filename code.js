@@ -20,10 +20,6 @@ items.forEach(item => {
             answer.style.maxHeight = answer.scrollHeight + "px";
             question.classList.add("active");
             arrow.classList.add("up");
-
-            lluviaEmojis();
         }
     });
 });
-
-
